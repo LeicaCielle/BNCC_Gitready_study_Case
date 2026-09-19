@@ -1,1 +1,0 @@
-# BNCC_Gitready_study_Case

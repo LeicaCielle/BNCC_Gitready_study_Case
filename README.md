@@ -45,7 +45,7 @@ Live Demo: [link-demo-jika-ada](#)
 
 1. Clone repository ini:
    ```bash
-   git clone <url-repo-kalian>
+   git clone <https://github.com/LeicaCielle/BNCC_Gitready_study_Case.git>
    ```
 2. Buka folder hasil clone, lalu klik dua kali file `index.html` (atau klik kanan → Open with → Browser).
 

@@ -35,9 +35,9 @@ Live Demo: [link-demo-jika-ada](#)
 
 | Jokowi Muda | Role | Kontribusi |
 |---|---|---|
-| [Nama Anggota 1] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Nama Anggota 2] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Nama Anggota 3] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+| Melvin | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
+| Ellena | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| Jennifer | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
 ---
 
